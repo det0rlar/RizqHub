@@ -611,13 +611,15 @@ footer {
     .navbar-menu-item {
         display: block;
         height: auto;
-        width: 100%;
+        width: 80%;
     }
     .navbar-menu-item > a {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        width: 100%;
+        width: 90%;
+        margin-left: -20px;
+        margin-bottom: 10px;
         padding: 12px 16px;
         border-bottom: 1px solid var(--slate-200);
     }
