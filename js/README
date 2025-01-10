@@ -1,0 +1,39 @@
+RizqHub
+
+RizqHub is a web application designed to facilitate donations to local mosques. The platform empowers individuals and communities to contribute effortlessly to mosques in need, fostering unity and support through a centralized and user-friendly system.
+
+Features
+
+Easy Donations: Securely donate to your local mosque with just a few clicks.
+
+Donation Tracking: Track your donation history to stay updated on your contributions.
+
+Search Local Mosques: Discover mosques near you and view their profiles.
+
+Transparent Campaigns: View donation campaigns initiated by mosques, including goals and progress.
+
+Secure Payments: Integrates with trusted payment gateways to ensure safe transactions.
+
+
+Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+
+Usage
+
+Sign Up/Login:
+
+Create an account or log in to access the platform.
+
+Search for Mosques:
+
+Use the search feature to find local mosques.
+
+Donate:
+
+Select a mosque or campaign and proceed with the donation process.
+
+Track Donations:
+
+View your donation history under your profile.
